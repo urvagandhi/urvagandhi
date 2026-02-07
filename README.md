@@ -180,9 +180,10 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
 
 <p align="center">
   <a href="https://github.com/urvagandhi">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=urvagandhi&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=FF9554&currStreakNum=F8D866&sideNums=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=8B949E" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=urvagandhi&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=FF9554&currStreakNum=F8D866&sideNums=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=8B949E" />
   </a>
 </p>
+
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
@@ -192,11 +193,13 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
 </p>
 
 <!-- GitHub Trophies -->
+<!--
 <p align="center">
   <a href="https://github.com/urvagandhi">
     <img src="https://github-profile-trophy.vercel.app/?username=urvagandhi&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
   </a>
 </p>
+-->
 
 ---
 
