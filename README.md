@@ -56,7 +56,7 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://cointrack-finance.vercel.app/"><h3>💰 CoinTrack</h3></a>
+        <h3>💰 CoinTrack</h3>
         <p><em>Multi-Broker Portfolio Analytics Dashboard</em></p>
         <p>
           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -64,6 +64,14 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         </p>
         <p>Unified financial analytics integrating brokerage APIs with real-time portfolio insights</p>
+        <p>
+          <a href="https://cointrack-finance.vercel.app/">
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-6C63FF?style=for-the-badge"/>
+          </a>
+          <a href="https://github.com/urvagandhi/cointrack">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
       </td>
       <td align="center" width="50%">
         <h3>🛡️ CodeGuardian</h3>
@@ -74,6 +82,11 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
           <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
         </p>
         <p>Graph-aware transformers with retrieval-augmented reasoning for security analysis</p>
+        <p>
+          <a href="https://github.com/urvagandhi/codeguardian">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -86,6 +99,11 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         </p>
         <p>Real-world evidence research analytics for healthcare insights</p>
+        <p>
+          <a href="https://github.com/urvagandhi/rwesearch">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
       </td>
       <td align="center" width="50%">
         <h3>📄 PDF Intelligence Pipeline</h3>
@@ -96,6 +114,11 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         </p>
         <p>Intelligent document processing with context-aware persona adaptation</p>
+        <p>
+          <a href="https://github.com/urvagandhi/pdf-intelligence">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
       </td>
     </tr>
   </table>
@@ -269,8 +292,6 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</picture>
+</div>
