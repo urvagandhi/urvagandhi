@@ -83,7 +83,7 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
         </p>
         <p>Graph-aware transformers with retrieval-augmented reasoning for security analysis</p>
         <p>
-          <a href="https://github.com/urvagandhi/codeguardian">
+          <a href="https://github.com/Harsh204k/codeGuardian">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -100,7 +100,7 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
         </p>
         <p>Real-world evidence research analytics for healthcare insights</p>
         <p>
-          <a href="https://github.com/urvagandhi/rwesearch">
+          <a href="https://github.com/urvagandhi/RWEsearch-Hackathon">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -115,7 +115,7 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
         </p>
         <p>Intelligent document processing with context-aware persona adaptation</p>
         <p>
-          <a href="https://github.com/urvagandhi/pdf-intelligence">
+          <a href="https://github.com/urvagandhi?tab=repositories">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
