@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Urva%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java-Focused%20Full-Stack%20Developer%20%7C%20Applied%20AI%20Engineer&descSize=18&descAlignY=52"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Urva%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java-Focused%20Full-Stack%20Developer%20%7C%20Applied%20AI%20Engineer&descSize=18&descAlignY=52"/>
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Urva%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java-Focused%20Full-Stack%20Developer%20%7C%20Applied%20AI%20Engineer&descSize=18&descAlignY=52"/>
-</picture>
+</div>
 
 <div align="center">
   
@@ -58,7 +56,7 @@ I'm a **passionate software engineer** who thrives at the intersection of **back
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>💰 CoinTrack</h3>
+        <a href="https://cointrack-finance.vercel.app/"><h3>💰 CoinTrack</h3></a>
         <p><em>Multi-Broker Portfolio Analytics Dashboard</em></p>
         <p>
           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
